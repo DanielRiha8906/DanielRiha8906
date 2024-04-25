@@ -1,16 +1,34 @@
-### Hi there 👋
+Hello, I'm Daniel  👋
+🎓  I'm currently studying Applied informatics at UJEP ( Univerzita Jana Evangelisty Purkyně) in Ústí nad Labem
 
-<!--
-**DanielRiha8906/DanielRiha8906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🌱 I'm passionate about backend development, frontend development and trying new database systems
 
-Here are some ideas to get you started:
+💻 My programming languages of choice include:
+Python
+SQL
+R
+C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🗣️ Fluent in:
+Czech (native)
+English (proficient)
+
+🌍 Additionally, I have proficiency in:
+French
+
+
+Get in Touch
+📫 Feel free to reach out to me via [email](mailto:daniel.riha8906@seznam.cz) or connect with me on LinkedIn.
+
+Projects
+Here are some of the projects that I have finished and would recommend checking in on:
+
+NSQL_Tweeter - A twitter-like webside utilizing MongoDB, Redis, python Flask and Tailwind
+
+
+Let's Collaborate!
+I'm always open to collaborating on exciting projects. If you're interested in working together or have any questions, don't hesitate to reach out!
+
+---
