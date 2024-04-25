@@ -1,34 +1,39 @@
-Hello, I'm Daniel  👋
-🎓  I'm currently studying Applied informatics at UJEP ( Univerzita Jana Evangelisty Purkyně) in Ústí nad Labem
+# Hello, I'm Daniel! 👋
 
-About Me
-🌱 I'm passionate about backend development, frontend development and trying new database systems
+🎓 Currently studying Applied Informatics at UJEP (Univerzita Jana Evangelisty Purkyně) in Ústí nad Labem.
+
+## About Me
+🌱 Passionate about backend and frontend development, exploring new database systems.
 
 💻 My programming languages of choice include:
-Python
-SQL
-R
-C#
+- Python
+- SQL
+- R
+- C#
+  
+🔍 Interested in expanding skills to include:
+- JavaScript (particularly for Next.js, React, and React Native)
 
+🗣 Fluent in:
+- Czech (native)
+- English (proficient)
 
-🗣️ Fluent in:
-Czech (native)
-English (proficient)
+🌍 Additionally, proficient in:
+- French
 
-🌍 Additionally, I have proficiency in:
-French
+## Projects
+Here are some projects I've completed and recommend checking out:
 
+1. **NSQL_Tweeter**:
+   A Twitter-like website built with MongoDB, Redis, Python Flask, and Tailwind.
 
-Get in Touch
-📫 Feel free to reach out to me via [email](mailto:daniel.riha8906@seznam.cz) or connect with me on LinkedIn.
+2. **GUI**:
+   A React Native tutorial project for a Music Review mobile app developed for a GUI class.
 
-Projects
-Here are some of the projects that I have finished and would recommend checking in on:
+## Get in Touch
+📫 Feel free to reach out to me via [email](mailto:daniel.riha8906@seznam.cz) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-riha).
 
-NSQL_Tweeter - A twitter-like webside utilizing MongoDB, Redis, python Flask and Tailwind
-
-
-Let's Collaborate!
+## Let's Collaborate!
 I'm always open to collaborating on exciting projects. If you're interested in working together or have any questions, don't hesitate to reach out!
 
 ---
